@@ -1,0 +1,1 @@
+At this point, a quick test may be in order. To do this, we’re going to use a testing framework called Test::Unit that comes with the standard Ruby distributions. We won’t describe it fully yet (we do that in the Unit Testing chapter starting on page 198). For now, we’ll just say that the method assert_equal checks that its two pa
